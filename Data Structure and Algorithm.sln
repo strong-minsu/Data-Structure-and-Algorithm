@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GCD", "GCD\GCD.vcxproj", "{00A3E064-305E-44CC-B2DA-913063771468}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eratosthenes'_sieve", "Eratosthenes'_sieve\Eratosthenes'_sieve.vcxproj", "{581AFA4A-4E51-4CBF-82AF-80A3B867119E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{00A3E064-305E-44CC-B2DA-913063771468}.Release|x64.Build.0 = Release|x64
 		{00A3E064-305E-44CC-B2DA-913063771468}.Release|x86.ActiveCfg = Release|Win32
 		{00A3E064-305E-44CC-B2DA-913063771468}.Release|x86.Build.0 = Release|Win32
+		{581AFA4A-4E51-4CBF-82AF-80A3B867119E}.Debug|x64.ActiveCfg = Debug|x64
+		{581AFA4A-4E51-4CBF-82AF-80A3B867119E}.Debug|x64.Build.0 = Debug|x64
+		{581AFA4A-4E51-4CBF-82AF-80A3B867119E}.Debug|x86.ActiveCfg = Debug|Win32
+		{581AFA4A-4E51-4CBF-82AF-80A3B867119E}.Debug|x86.Build.0 = Debug|Win32
+		{581AFA4A-4E51-4CBF-82AF-80A3B867119E}.Release|x64.ActiveCfg = Release|x64
+		{581AFA4A-4E51-4CBF-82AF-80A3B867119E}.Release|x64.Build.0 = Release|x64
+		{581AFA4A-4E51-4CBF-82AF-80A3B867119E}.Release|x86.ActiveCfg = Release|Win32
+		{581AFA4A-4E51-4CBF-82AF-80A3B867119E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

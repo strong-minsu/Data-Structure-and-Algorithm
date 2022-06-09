@@ -1,6 +1,6 @@
 package btree;
 import btree.BTree_Node;
-
+//함수, 생성자 Btree_Node에서 구현된 자료구조를 가지고 구현
 public class B_tree {
 	BTree_Node root;
     int MinDeg;

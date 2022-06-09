@@ -1,4 +1,6 @@
 package btree;
+
+//메인으로 작동함 (앞에서 구현한 B_tree(함수구현)class, BTree_Node(필요한 자료구조, 함수 구현)class) import하기
 import btree.BTree_Node;
 import btree.B_tree;
 import java.util.*;

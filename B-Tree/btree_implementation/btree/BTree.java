@@ -41,8 +41,8 @@ public class BTree {
 			else
 				continue;
 		}
+		//추가 후 트리 출력결과 볼 수 있음
         //System.out.println();
-
 		//System.out.println("Traversal of tree after insert");
         //t.traverse();
         //System.out.println();
@@ -60,8 +60,8 @@ public class BTree {
 				continue;
 			}
 		}
+		//체거 후 트리 출력결과 볼 수 있음
 		//System.out.println();
-
 		//System.out.println("Traversal of tree after remove");
         //t.traverse();
         //System.out.println();
@@ -94,8 +94,8 @@ public class BTree {
 			else
 				continue;
 		}
+		//추가 후 트리 출력결과 볼 수 있음
         //System.out.println();
-
 		//System.out.println("Traversal of tree after insert");
         //t.traverse();
         //System.out.println();
@@ -113,8 +113,8 @@ public class BTree {
 				continue;
 			}
 		}
+		//제거 후 트리 출력결과 볼 수 있음
 		//System.out.println();
-
 		//System.out.println("Traversal of tree after remove");
         //t.traverse();
         //System.out.println();
@@ -147,8 +147,8 @@ public class BTree {
 			else
 				continue;
 		}
+		//추가 후 트리 출력결과 볼 수 있음
         //System.out.println();
-
 		//System.out.println("Traversal of tree after insert");
         //t.traverse();
         //System.out.println();
@@ -166,8 +166,8 @@ public class BTree {
 				continue;
 			}
 		}
+		//제거 후 트리 출력결과 볼 수 있음
 		//System.out.println();
-
 		//System.out.println("Traversal of tree after remove");
         //t.traverse();
         //System.out.println();
